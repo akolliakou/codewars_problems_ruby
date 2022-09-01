@@ -1,1 +1,3 @@
-# Codewars problems and solutions in Ruby
+# Codewars problems
+
+My solutions to Codewars problems using Ruby
